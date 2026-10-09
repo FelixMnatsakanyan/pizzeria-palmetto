@@ -1,4 +1,4 @@
-package main.java.Pizzeria;
+package main.java.Pizzeria.src.main.java.com.mnatsakanyan;
 
 public enum Ingredient {
     TOMATO_PASTE(1.0),

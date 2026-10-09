@@ -1,4 +1,4 @@
-package main.java.Pizzeria;
+package main.java.Pizzeria.src.main.java.com.mnatsakanyan;
 
 import java.io.BufferedReader;
 import java.io.IOException;

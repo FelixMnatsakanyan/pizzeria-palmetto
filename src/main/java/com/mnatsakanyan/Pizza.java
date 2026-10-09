@@ -1,4 +1,4 @@
-package main.java.Pizzeria;
+package main.java.Pizzeria.src.main.java.com.mnatsakanyan;
 
 public class Pizza {
     private String name;
